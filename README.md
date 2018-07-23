@@ -1,2 +1,2 @@
-# test1
-just for test
+# Semantic UI Grid Calculator
+# Removed
